@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hello, I am <a href="https://franciscogaetano.000webhostapp.com/">Francisco Gaetano</a> 👋</h1>
+  <h1 align="center">Hello, I am Francisco Gaetano 👋</h1>
 </div>
 
 
@@ -8,10 +8,6 @@
 
 ## About me
 
-- 💻 Full Stack Developer
-- 💼 Currently working as an IT Consultant at Deloitte.
-- 📊 Data analytics
-- ⌨️ JavaScript, Python, SQL, JSON, and much more! Checkout my portfolio (link in my github profile) to know more about the technologies I use.
-
+Hi there! I'm a passionate Full Stack Developer and IT Consultant at Deloitte. My expertise includes data analytics, where I leverage technologies such as JavaScript, Python, SQL, JSON, and more. Check out my <a href="https://franciscogaetano.000webhostapp.com/"> 3D PORTFOLIO </a> to explore the technologies I work with.
 
 
